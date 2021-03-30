@@ -121,5 +121,5 @@ app.get("/*", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("port sever running");
+  console.log("server is running");
 });
